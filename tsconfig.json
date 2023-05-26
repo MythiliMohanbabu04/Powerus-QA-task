@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "typeRoots": ["node_modules/@types"],
+    "types": ["faker"]
+  },
+  "include": [
+    "cypress/**/*.ts",
+    "cypress/support/commands.js",
+    "cypress/support/e2e.js",
+    "cypress/support/config.js"
+  ]
+}
