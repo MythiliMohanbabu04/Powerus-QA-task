@@ -1,5 +1,6 @@
 # Powerus-QA-task
-**Tool used to Automate **: Cypress version 12.13.0
+
+**Tool used to Automate**: Cypress version 12.13.0
 
 **Programming Langauge** : TypeScript
 
